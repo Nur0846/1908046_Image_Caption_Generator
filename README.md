@@ -87,11 +87,16 @@ git clone https://github.com/yourusername/image-caption-generator.git
 
 ---
 
+**Author:** Nur Alam  
+**GitHub Username:** Nur0846  
+**Email:** nuralam1908046@gmail.com
+---
 ## 🔗 GitHub Repository
 
 [View Project Code](https://github.com/Nur0846/1908046_Image_Caption_Generator)
 
 ```
+
 
 
 
